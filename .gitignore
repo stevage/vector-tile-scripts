@@ -1,0 +1,7 @@
+*.mbtiles
+*.geojson
+PG
+.mbtiles-journal
+tippecanoe/
+tmp
+node_modules/
