@@ -1,4 +1,4 @@
-source PG
+source settings
 source ${1}.config
 
 rm -f ${1}.geojson;

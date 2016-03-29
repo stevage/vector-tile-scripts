@@ -1,0 +1,3 @@
+# Rename this file to settings, and fill in these fields with your own keys
+export PG="PG:host=ZZZ port=5432 dbname=gis user=ZZZ password=ZZZ"
+export MapboxAccessToken='sk.eyZZZzzzzzzzzzzzzzzzzzz'

@@ -1,6 +1,6 @@
 *.mbtiles
 *.geojson
-PG
+settings
 .mbtiles-journal
 tippecanoe/
 tmp
